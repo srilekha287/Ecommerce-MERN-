@@ -5,22 +5,6 @@ Super Mart is a full-featured e-commerce web application built with the **MERN s
 
 ---
 
-## 🔗 Live Demo
-
-> Coming Soon! (Optional: Add link if deployed on Netlify/Vercel/Render)
-
----
-
-## 📸 Screenshots
-
-- 🏠 Home page with product filtering  
-- 🛍️ Product details with reviews  
-- 🛒 Cart and Buy Now flow  
-- ✅ Order confirmation  
-- 🔐 Admin dashboard with stats and product management  
-
----
-
 ## ✨ Features
 
 ### 👤 User Features
